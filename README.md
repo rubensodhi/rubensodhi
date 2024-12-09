@@ -41,7 +41,7 @@ Hi! I'm **Ruben Singh Sodhi**, a passionate data scientist with expertise in mac
 - **Technologies:** Python, Model Pruning (Wanda)  
 - Evaluated the reasoning abilities of pruned Microsoft Phi-2 and Phi-3 Mini LLMs.  
 
-🔗 See all my projects in the **[Repositories]([https://github.com/rubensodhi](https://github.com/rubensodhi?tab=repositories)])** section.
+🔗 See all my projects in the **[Repositories]([https://github.com/rubensodhi?tab=repositories])** section.
 
 ---
 
