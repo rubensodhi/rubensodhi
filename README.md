@@ -52,13 +52,6 @@ Hi! I'm **Ruben Singh Sodhi**, a passionate data scientist with expertise in mac
 
 ---
 
-## 🌟 Featured Visualizations  
-
-![Project Showcase](https://img.shields.io/badge/Visualizations-Demo-blueviolet?style=flat-square)  
-**[Click here](https://github.com/rubensodhi)** to explore more data visualizations and storytelling projects.  
-
----
-
 ## 🏫 Education  
 
 - **MSc in Data Science (Distinction)** | *University of Sheffield*  
