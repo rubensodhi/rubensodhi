@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rubensinghsodhi-blue)](https://uk.linkedin.com/in/rubensinghsodhi)  
 [![GitHub](https://img.shields.io/github/followers/rubensodhi?label=Follow&style=social)](https://github.com/rubensodhi)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://github.com/rubensodhi)  
+ 
 
 ---
 
