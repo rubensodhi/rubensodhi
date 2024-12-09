@@ -1,25 +1,28 @@
 
-# Ruben Singh Sodhi 👨‍💻 | Data Scientist  
+# 🌟 Ruben Singh Sodhi | Data Scientist  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rubensinghsodhi-blue)](https://uk.linkedin.com/in/rubensinghsodhi)  
-[![GitHub](https://img.shields.io/github/followers/rubensodhi?label=Follow&style=social)](https://github.com/rubensodhi)  
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://uk.linkedin.com/in/rubensinghsodhi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/rubensodhi)   
 
 ---
 
-## About Me  
+## 👋 About Me  
 
-Hi! I'm **Ruben Singh Sodhi**, a passionate data scientist with expertise in machine learning, data analysis, and visualization. My goal is to uncover actionable insights from data and solve challenging problems using innovative techniques.  
+Hello! I'm **Ruben Singh Sodhi**, a data scientist with a passion for turning data into actionable insights. I specialize in machine learning, data visualization, and creative problem-solving. My mission is to make data work smarter for better solutions.  
 
 ---
 
 ## 🚀 Core Skills  
 
-| **Programming Languages** | Python, R, Java, C++, SQL |
-|---------------------------|--------------------------|
-| **Libraries & Frameworks** | TensorFlow, Keras, PyTorch, scikit-learn, ggplot2 |
-| **Tools** | KNIME, Apache Spark, Hadoop, Streamlit |
-| **Visualization** | Matplotlib, ggplot2, Seaborn |
+### 👨‍💻 **Programming & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
 
 ---
 
