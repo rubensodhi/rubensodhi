@@ -1,5 +1,5 @@
 
-# 🌟 Ruben Singh Sodhi | Data Scientist  
+# 🌟 Ruben Singh Sodhi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://uk.linkedin.com/in/rubensinghsodhi)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/rubensodhi)   
@@ -8,7 +8,7 @@
 
 ## 👋 About Me  
 
-Hello! I'm **Ruben Singh Sodhi**, a data scientist with a passion for turning data into actionable insights. I specialize in machine learning, data visualization, and creative problem-solving. My mission is to make data work smarter for better solutions.  
+Hello! I'm **Ruben Singh Sodhi**, a data science graduate with a passion for turning data into actionable insights. I specialize in machine learning, data visualization, and creative problem-solving. My mission is to make data work smarter for better solutions.  
 
 ---
 
